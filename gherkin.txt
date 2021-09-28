@@ -1,0 +1,10 @@
+As a customer, I want to be able to search my list of payees to select the right person to pay
+
+Given: A user is on the payment transfer page
+When: the user clicks on address book
+Then: a list of all the payees appear
+
+
+Given: A user is in the address book
+When: the user clicks on a payee
+Then: select the appropriate payee and relevant details 
